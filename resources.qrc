@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/audio.wav</file>
+        <file>images/ICONS/about.png</file>
+        <file>images/ICONS/add.png</file>
+        <file>images/ICONS/book.ico</file>
+        <file>images/ICONS/continue.png</file>
+        <file>images/ICONS/exit.png</file>
+        <file>images/ICONS/Help.png</file>
+        <file>images/ICONS/lightBlue.ico</file>
+        <file>images/ICONS/lightCoral.ico</file>
+        <file>images/ICONS/lightGreen.ico</file>
+        <file>images/ICONS/main.jpg</file>
+        <file>images/ICONS/main1.jpg</file>
+        <file>images/ICONS/main2.jpg</file>
+        <file>images/ICONS/main3.jpg</file>
+        <file>images/ICONS/main4.jpg</file>
+        <file>images/ICONS/new.png</file>
+        <file>images/ICONS/next.ico</file>
+        <file>images/ICONS/open.png</file>
+        <file>images/ICONS/otherLabel.jpg</file>
+        <file>images/ICONS/pause.ico</file>
+        <file>images/ICONS/pink.ico</file>
+        <file>images/ICONS/play.ico</file>
+        <file>images/ICONS/previous.ico</file>
+        <file>images/ICONS/refresh.ico</file>
+        <file>images/ICONS/register.png</file>
+        <file>images/ICONS/result.ico</file>
+        <file>images/ICONS/save.png</file>
+        <file>images/ICONS/save_as.png</file>
+        <file>images/ICONS/Settings.png</file>
+        <file>images/ICONS/submit.ico</file>
+        <file>images/ICONS/update.png</file>
+        <file>images/ICONS/yellow.ico</file>
+        <file>images/JAMB/2008/English/1.png</file>
+    </qresource>
+</RCC>
